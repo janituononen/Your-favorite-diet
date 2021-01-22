@@ -1,16 +1,16 @@
 # Your favorite diet
 
-Building AI course project
+Final project for the Building AI course
 
 ## Summary
 
-Your favorite diet program helps people to eat their favorite foods every day while staying fit.
+Your favorite diet program helps people to eat their favorite meals every day while staying fit.
 
 
 
 ## Background
 
-Have you ever tried any particular diet? Do you feel like you are eating unilaterally? Would you like to feel eating something new and healthy every day and at the same time get the feeling of eating your favorite foods? I have noticed in everyday life, that I have been eating the same foods all the time. Breakfast and dinner are the same every day, and for lunch and dinner the same recipes run from time to time. Why not have a program built with artificial intelligence that could tell you what you like to eat and the program would tell you healthy options from which to choose the foods you like.
+Have you ever tried any particular diet? Do you feel like you are eating unilaterally? Would you like to feel eating something new and healthy every day and at the same time get the feeling of eating your favorite foods? I have noticed in everyday life, that I have been eating the same foods all the time. Breakfast and dinner are the same every day, and for lunch and dinner the same recipes run from time to time. Why not have a program built with artificial intelligence that could tell you what you like to eat and the program would tell you healthy options from which to choose the meals you like.
 
 
 
