@@ -1,4 +1,4 @@
-# AI based program "Your favorite diet"
+# Your favorite diet
 
 Building AI course project
 
