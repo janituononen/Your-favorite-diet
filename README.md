@@ -20,13 +20,13 @@ Users are all those who want a change in their eating habits. People who want to
 Program operation:
 - User enters age, height and weight.
 - User tells how many pounds he wants to lose weight or gain weight or wants to stay the same weight.
-- The program calculates database based on BMI and target kilocalories.
-- The user tells how many times a day he eats, including snacks.
-- The program prints a list of foods. The user tells the program the foods they like. The user tells you which foods you are allergic to and whether you are vegan, for example.
-- The program searches the recipes entered in the database for ready-made recipe options for the given number of dishes and snacks based on the ideal nutritional values. The      program notifies you of every meal and snack: calories, prot, carbs, fats and micronutrients (vitamins etc ..).
-- The user can choose which recipes he wants to use and can still edit the recipes as he wants.
-- The program creates a ready-made shopping cart for the store (eg in Finland we have Foodie (S Group) and K-Ruoka (Kesko) so that the user can compare where to buy the necessary raw materials at the cheapest price.
-- The user can then add the desired products to the shopping cart.
+- Program calculates database based on BMI and target kilocalories.
+- User tells how many times a day he eats, including snacks.
+- Program prints a list of foods. The user tells the program the foods they like. The user tells you which foods you are allergic to and whether you are vegan, for example.
+- Program searches the recipes entered in the database for ready-made recipe options for the given number of dishes and snacks based on the ideal nutritional values. The      program notifies you of every meal and snack: calories, prot, carbs, fats and micronutrients (vitamins etc ..).
+- User can choose which recipes he wants to use and can still edit the recipes as he wants.
+- Program creates a ready-made shopping cart for the store (eg in Finland we have Foodie (S Group) and K-Ruoka (Kesko) so that the user can compare where to buy the necessary raw materials at the cheapest price.
+- User can then add the desired products to the shopping cart.
 - Order shopping cart can be picked in store or delivered at home.
 
 
