@@ -23,7 +23,7 @@ Program operation:
 - Program calculates database based on BMI and target kilocalories.
 - User tells how many times a day he eats, including snacks.
 - Program prints a list of foods. The user tells the program the foods they like. The user tells you which foods you are allergic to and whether you are vegan, for example.
-- Program searches the recipes entered in the database for ready-made recipe options for the given number of dishes and snacks based on the ideal nutritional values. The      program notifies you of every meal and snack: calories, prot, carbs, fats and micronutrients (vitamins etc ..).
+- Program searches the recipes entered in the database for ready-made recipe options for the given number of dishes and snacks based on the ideal nutritional values. The      program notifies you of every meal and snack: calories, protein, carbs, fats and micronutrients (vitamins etc..).
 - User can choose which recipes he wants to use and can still edit the recipes as he wants.
 - Program creates a ready-made shopping cart for the store (eg in Finland we have Foodie (S Group) and K-Ruoka (Kesko) so that the user can compare where to buy the necessary raw materials at the cheapest price.
 - User can then add the desired products to the shopping cart.
