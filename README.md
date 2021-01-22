@@ -3,7 +3,7 @@
 
 ## Summary
 
-Your favorite diet program helps the user to eat their favorite foods every day while staying fit.
+Your favorite diet program helps people to eat their favorite foods every day while staying fit.
 
 
 
