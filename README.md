@@ -1,4 +1,4 @@
-# Your favorite diet
+# testi
 
 Final project for the Building AI course
 
